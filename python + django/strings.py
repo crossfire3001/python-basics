@@ -1,0 +1,5 @@
+
+
+greeting = 'Hi'
+print(greeting)
+
