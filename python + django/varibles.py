@@ -18,3 +18,8 @@ print(type_of_variable)
 # Constant | Use an uppercase single letter, word, or words. Separate words with underscores to improve readability. | CONSTANT, MY_CONSTANT, MY_LONG_CONSTANT
 # Module | Use a short, lowercase word or words. Separate words with underscores to improve readability. | module.py, my_module.py
 # Package | Use a short, lowercase word or words. Do not separate words with underscores. | package, mypackage
+
+x = 5
+y = 3
+
+print(x + y)
